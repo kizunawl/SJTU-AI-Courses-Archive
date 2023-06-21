@@ -1,6 +1,3 @@
-# Assignments for SJTU AI courses 
-Kmeans Project uploaded (AI1602)
+# Assignments for SJTU AI courses
 
-Computing Graph uploaded (AI1603 / dlsys-courses) 
-
-ML feat. MNIST uploaded
+Please feel free to watch these files and help yourself completing the assignments. 
